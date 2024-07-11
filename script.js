@@ -96,9 +96,12 @@ const questions = [
   },
 ];
 
+// catched element refrence ------------------------------
+
 let currentQuestionIndex = 0;
 let userScore = 0;
 
+// const-------------------------------------------------------
 const startButtonEl = document.querySelector(".start-btn");
 const welcomeScreenEl = document.querySelector(".welcome-screen");
 const quizScreenEl = document.querySelector(".quiz-screen");
@@ -106,7 +109,11 @@ const questionEl = document.querySelector(".question");
 const answersButtons = document.querySelector(".answers-container");
 const nextButtonEl = document.querySelector(".next-btn");
 
+// addEventListener-----------------------------------------
+
 startButtonEl.addEventListener("click", startQuiz);
+
+// functions---------------------------------------------------
 
 function startQuiz() {
   welcomeScreenEl.style.display = "none";
