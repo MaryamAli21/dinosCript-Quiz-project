@@ -1,3 +1,5 @@
+
+![dinosCriptlogo]()
 # dinosCript
 Basic multiple choice Quiz application that allows users to test their knowledge in Javascript, learn new facts, or have fun  ,as player can enjoy answering questions, discovering new facts, 
 it’s also a way of learning and improving knowledge, as they can test themselves, and see their progress.
