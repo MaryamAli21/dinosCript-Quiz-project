@@ -1,16 +1,17 @@
 
-{
+head{
     margin: 0;
     padding: 0;
 }
 
 .logo {
     background-repeat: no-repeat;
+    /* position: flex; */
     background-size: cover;
-    padding: 0px;
-    margin: 0px;
-    width: 150px;
-    height: 50px;
+    padding-left: 500px;
+    margin: 20px;
+    width: 370px;
+    height: 500px;
 }
 .body {
     /* background-image: url("background.png"); */
