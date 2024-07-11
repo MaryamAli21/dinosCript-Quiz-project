@@ -1,5 +1,5 @@
 # dinosCript
-basic multiple choice Quiz application that allows users to test their knowledge in Javascript, learn new facts, or have fun  ,as player can enjoy answering questions, discovering new facts, 
+Basic multiple choice Quiz application that allows users to test their knowledge in Javascript, learn new facts, or have fun  ,as player can enjoy answering questions, discovering new facts, 
 it’s also a way of learning and improving knowledge, as they can test themselves, and see their progress.
 
 # Getting Started
@@ -7,7 +7,7 @@ it’s also a way of learning and improving knowledge, as they can test themselv
 it’s straight forward, but the the main button on the page is already all the instruction some one need to get started! the user can resetart  once the quiz is finished.
 
 # Attributions
-basic quiz machinizm using javascript widly used in open source 
+Basic quiz machinizm using javascript widly used in open source 
 
 Technologies Used
 This game was coded using Javascript CSS and  HTML.
